@@ -15,7 +15,19 @@ I specialize in **Java**, **Golang**, and **C++** development, with a strong emp
 
 ---
 
-## 💻 **Skills**
+## 📊 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abdulaxad7&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abdulaxad7&theme=radical" alt="Productive Time" />
+</p>
+
+---
+
+## 🛠 **Skills**
 
 ### Programming Languages  
 - Java (Spring Boot)  
@@ -42,20 +54,6 @@ I specialize in **Java**, **Golang**, and **C++** development, with a strong emp
 - Uzbek (Native)  
 - English (B2)  
 - Russian (B2)  
-
----
-
-## 📊 **Skill Progress Table**
-
-| Skill                 | Expertise Level        | Notes                                   |
-|-----------------------|-----------------------|-----------------------------------------|
-| **Java (Spring Boot)** | 🟢🟢🟢🟢⚪️  | Building microservices and web apps     |
-| **Golang (Gin)**       | 🟢🟢🟢⚪️⚪️  | Focused on REST APIs and ORM usage      |
-| **C++ (Qt Framework)** | 🟢🟢⚪️⚪️⚪️  | Desktop apps with Qt framework          |
-| **Python**             | 🟢🟢⚪️⚪️⚪️  | General scripting and data processing   |
-| **Databases**          | 🟢🟢🟢⚪️⚪️  | Strong in relational and NoSQL databases|
-| **Docker**             | 🟢🟢⚪️⚪️⚪️  | Learning containerization basics        |
-| **Git**                | 🟢🟢🟢🟢⚪️  | Version control and collaboration       |
 
 ---
 
