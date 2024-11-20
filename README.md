@@ -64,7 +64,7 @@ I specialize in **Java**, **Golang**, and **C++** development, with a strong emp
 ## 📫 **Contact Me**
 - 📧 Email: [abdulaxadisroilov7@gmail.com](mailto:abdulaxadisroilov7@gmail.com)  
 - 🔗 LinkedIn: [Abdulaxad Isroilov](https://linkedin.com/in/abdulaxad-isroilov-4b1914292)  
-- 🌍 Skype: [Abdulaxad]([https://github.com/Abdulaxad7](https://join.skype.com/invite/HH6R1SZJWAkG))  
+- 🌍 Skype: [Abdulaxad](https://join.skype.com/invite/HH6R1SZJWAkG)  
 
 ---
 
