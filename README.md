@@ -17,13 +17,16 @@ I specialize in **Java**, **Golang**, and **C++** development, with a strong emp
 
 ## 📊 **GitHub Stats**
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abdulaxad7&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abdulaxad7&theme=radical" alt="Productive Time" />
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abdulaxad7&theme=radical" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abdulaxad7&theme=radical" alt="Productive Time" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -38,7 +41,8 @@ I specialize in **Java**, **Golang**, and **C++** development, with a strong emp
 ### Databases  
 - MySQL  
 - PostgreSQL  
-- MongoDB  
+- MongoDB
+- Apache Cassandra
 
 ### Tools  
 - Docker  
