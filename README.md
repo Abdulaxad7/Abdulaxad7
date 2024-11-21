@@ -9,7 +9,8 @@ I specialize in **Java**, **Golang**, and **C++** development, with a strong emp
 
 ## 🌟 **About Me**
 - 🔭 Exploring opportunities in **backend development**, particularly in **microservices** architecture.  
-- 🌱 Actively improving skills in **Spring Boot**, **Gin framework**, and **ORMs** for database management.  
+- 🌱 Actively improving skills in **Spring Boot**, **Gin framework**, and **ORMs** for database management.
+- ☁️ Learning **Amazon Web Services (AWS)**, focusing on **S3 Buckets** and **EC2** for scalable cloud solutions.  
 - 🏆 Solving algorithm challenges on [Leetcode](https://leetcode.com/Abdulaxad_Isroilov) to sharpen problem-solving abilities.  
 - 💡 Driven by a passion for developing solutions that merge creativity and functionality.  
 
