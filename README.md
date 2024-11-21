@@ -1,7 +1,7 @@
 # Hi, I'm Abdulaxad Isroilov 👋  
 
 🎓 **Junior Developer passionate about crafting efficient and elegant software solutions.**  
-📚 Studying at **Inha University** in the Department of SOCIE (School of Computer Science and Information Engineering) on a scholarship.  
+📚 Studying at **Inha University** in the Department of CSE (Computer Science and Engineering) on a scholarship basis.  
 
 I specialize in **Java**, **Golang**, and **C++** development, with a strong emphasis on building robust, scalable applications. My goal is to continuously learn and tackle challenging problems while delivering impactful solutions.
 
