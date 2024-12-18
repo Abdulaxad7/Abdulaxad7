@@ -35,7 +35,7 @@ I specialize in **Java**, **Golang**, and **C++** development, with a strong emp
 
 ### Programming Languages  
 - Java (Spring Boot)  
-- Golang (Gin Framework)  
+- Golang (Gin Library)  
 - C++ (Qt Framework)  
 - Python  
 
